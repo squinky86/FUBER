@@ -8,4 +8,4 @@ This repository hosts a set of files that should be identified by static code an
 
 ## License
 
-This project is licensed under the ISC License. See the [LICENSE.md](license.md) file for details.
+This project is licensed under the ISC License. See the [LICENSE.md](LICENSE.md) file for details.
