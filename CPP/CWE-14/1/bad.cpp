@@ -1,5 +1,5 @@
 /*
- * Copyright © 2018, Jon Hood www.hoodsecurity.com
+ * Copyright © 2018-2021, Jon Hood www.hoodsecurity.com
  * License: ISC
  */
 
